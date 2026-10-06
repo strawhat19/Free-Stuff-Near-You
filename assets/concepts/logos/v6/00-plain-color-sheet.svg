@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1540" viewBox="0 0 1600 1540" role="img" aria-labelledby="title desc">
+  <title id="title">Free-Stuff-Near-You — Rounded Tilt Plain Color Variants, v6</title>
+  <desc id="desc">Six soft-green palettes for the same selected soft-rounded local tag, presented in a three-column by two-row flat comparison sheet. Every mark and its internal characters share a minus-eight-degree rotation. The right and bottom points remain exact geometric twins. This sheet shows the plain treatment; companion sheets preserve the other lettering choices.</desc>
+  <defs><symbol id="sage-plain-color" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#8DB99C" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="sage-plain-mono" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="mint-plain-color" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#C4E3D1" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="mint-plain-mono" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="meadow-plain-color" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#B6D7BF" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="meadow-plain-mono" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="celadon-plain-color" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#ADD0B7" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="celadon-plain-mono" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="deep-sage-plain-color" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#6FA889" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="deep-sage-plain-mono" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="fern-plain-color" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#A4C9B1" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="fern-plain-mono" viewBox="0 0 160 160"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol></defs>
+  <rect width="1600" height="1540" fill="#F1F5EF"/>
+  <g font-family="Avenir Next, Trebuchet MS, Arial, sans-serif">
+    <text x="64" y="86" fill="#214E3B" font-size="52" font-weight="700" letter-spacing="-1.4">Free-Stuff-Near-You</text>
+    <text x="64" y="127" fill="#5B7063" font-size="21">Logo concepts · v6 · The same rounded local tag, without lettering.</text>
+    <text x="1536" y="86" fill="#5B7063" font-size="15" text-anchor="end" letter-spacing="2">ORIGINAL / UNADOPTED</text>
+    <g>
+      <rect x="64" y="176" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="96" y="212" fill="#5B7063" font-size="13" letter-spacing="0.8">01 / ROUNDED TILT / PLAIN</text>
+      <text x="96" y="252" fill="#214E3B" font-size="26" font-weight="700">Sage</text>
+      <use href="#sage-plain-color" x="208" y="288" width="184" height="184"/>
+      <text x="300" y="544" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="96" y="594" fill="#5B7063" font-size="16">The original sage, softly rounded.</text>
+      <text x="96" y="621" fill="#5B7063" font-size="16">One contour, with no internal lettering.</text>
+      <path d="M96 660H504" stroke="#D6E3D9"/>
+      <text x="96" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="284" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">BODY / ACCENT</text>
+      <use href="#sage-plain-mono" x="104" y="728" width="32" height="32"/>
+      <use href="#sage-plain-mono" x="160" y="712" width="48" height="48"/>
+      <use href="#sage-plain-mono" x="216" y="696" width="64" height="64"/>
+      <circle cx="292" cy="726" r="7" fill="#8DB99C"/>
+      <text x="307" y="731" fill="#5B7063" font-size="14">#8DB99C</text>
+      <circle cx="292" cy="756" r="7" fill="#214E3B"/>
+      <text x="307" y="761" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="564" y="176" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="596" y="212" fill="#5B7063" font-size="13" letter-spacing="0.8">02 / ROUNDED TILT / PLAIN</text>
+      <text x="596" y="252" fill="#214E3B" font-size="26" font-weight="700">Mint</text>
+      <use href="#mint-plain-color" x="708" y="288" width="184" height="184"/>
+      <text x="800" y="544" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="596" y="594" fill="#5B7063" font-size="16">A light mint face with gentle contrast.</text>
+      <text x="596" y="621" fill="#5B7063" font-size="16">One contour, with no internal lettering.</text>
+      <path d="M596 660H1004" stroke="#D6E3D9"/>
+      <text x="596" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="784" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">BODY / ACCENT</text>
+      <use href="#mint-plain-mono" x="604" y="728" width="32" height="32"/>
+      <use href="#mint-plain-mono" x="660" y="712" width="48" height="48"/>
+      <use href="#mint-plain-mono" x="716" y="696" width="64" height="64"/>
+      <circle cx="792" cy="726" r="7" fill="#C4E3D1"/>
+      <text x="807" y="731" fill="#5B7063" font-size="14">#C4E3D1</text>
+      <circle cx="792" cy="756" r="7" fill="#214E3B"/>
+      <text x="807" y="761" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="1064" y="176" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="1096" y="212" fill="#5B7063" font-size="13" letter-spacing="0.8">03 / ROUNDED TILT / PLAIN</text>
+      <text x="1096" y="252" fill="#214E3B" font-size="26" font-weight="700">Meadow</text>
+      <use href="#meadow-plain-color" x="1208" y="288" width="184" height="184"/>
+      <text x="1300" y="544" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="1096" y="594" fill="#5B7063" font-size="16">The rounded-ticket green, refined.</text>
+      <text x="1096" y="621" fill="#5B7063" font-size="16">One contour, with no internal lettering.</text>
+      <path d="M1096 660H1504" stroke="#D6E3D9"/>
+      <text x="1096" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="1284" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">BODY / ACCENT</text>
+      <use href="#meadow-plain-mono" x="1104" y="728" width="32" height="32"/>
+      <use href="#meadow-plain-mono" x="1160" y="712" width="48" height="48"/>
+      <use href="#meadow-plain-mono" x="1216" y="696" width="64" height="64"/>
+      <circle cx="1292" cy="726" r="7" fill="#B6D7BF"/>
+      <text x="1307" y="731" fill="#5B7063" font-size="14">#B6D7BF</text>
+      <circle cx="1292" cy="756" r="7" fill="#214E3B"/>
+      <text x="1307" y="761" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="64" y="810" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="96" y="846" fill="#5B7063" font-size="13" letter-spacing="0.8">04 / ROUNDED TILT / PLAIN</text>
+      <text x="96" y="886" fill="#214E3B" font-size="26" font-weight="700">Celadon</text>
+      <use href="#celadon-plain-color" x="208" y="922" width="184" height="184"/>
+      <text x="300" y="1178" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="96" y="1228" fill="#5B7063" font-size="16">A soft celadon for a quiet local mark.</text>
+      <text x="96" y="1255" fill="#5B7063" font-size="16">One contour, with no internal lettering.</text>
+      <path d="M96 1294H504" stroke="#D6E3D9"/>
+      <text x="96" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="284" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">BODY / ACCENT</text>
+      <use href="#celadon-plain-mono" x="104" y="1362" width="32" height="32"/>
+      <use href="#celadon-plain-mono" x="160" y="1346" width="48" height="48"/>
+      <use href="#celadon-plain-mono" x="216" y="1330" width="64" height="64"/>
+      <circle cx="292" cy="1360" r="7" fill="#ADD0B7"/>
+      <text x="307" y="1365" fill="#5B7063" font-size="14">#ADD0B7</text>
+      <circle cx="292" cy="1390" r="7" fill="#214E3B"/>
+      <text x="307" y="1395" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="564" y="810" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="596" y="846" fill="#5B7063" font-size="13" letter-spacing="0.8">05 / ROUNDED TILT / PLAIN</text>
+      <text x="596" y="886" fill="#214E3B" font-size="26" font-weight="700">Deep Sage</text>
+      <use href="#deep-sage-plain-color" x="708" y="922" width="184" height="184"/>
+      <text x="800" y="1178" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="596" y="1228" fill="#5B7063" font-size="16">The richer sage from the earlier round.</text>
+      <text x="596" y="1255" fill="#5B7063" font-size="16">One contour, with no internal lettering.</text>
+      <path d="M596 1294H1004" stroke="#D6E3D9"/>
+      <text x="596" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="784" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">BODY / ACCENT</text>
+      <use href="#deep-sage-plain-mono" x="604" y="1362" width="32" height="32"/>
+      <use href="#deep-sage-plain-mono" x="660" y="1346" width="48" height="48"/>
+      <use href="#deep-sage-plain-mono" x="716" y="1330" width="64" height="64"/>
+      <circle cx="792" cy="1360" r="7" fill="#6FA889"/>
+      <text x="807" y="1365" fill="#5B7063" font-size="14">#6FA889</text>
+      <circle cx="792" cy="1390" r="7" fill="#214E3B"/>
+      <text x="807" y="1395" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="1064" y="810" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="1096" y="846" fill="#5B7063" font-size="13" letter-spacing="0.8">06 / ROUNDED TILT / PLAIN</text>
+      <text x="1096" y="886" fill="#214E3B" font-size="26" font-weight="700">Fern</text>
+      <use href="#fern-plain-color" x="1208" y="922" width="184" height="184"/>
+      <text x="1300" y="1178" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="1096" y="1228" fill="#5B7063" font-size="16">A muted fern green with a gentle depth.</text>
+      <text x="1096" y="1255" fill="#5B7063" font-size="16">One contour, with no internal lettering.</text>
+      <path d="M1096 1294H1504" stroke="#D6E3D9"/>
+      <text x="1096" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="1284" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">BODY / ACCENT</text>
+      <use href="#fern-plain-mono" x="1104" y="1362" width="32" height="32"/>
+      <use href="#fern-plain-mono" x="1160" y="1346" width="48" height="48"/>
+      <use href="#fern-plain-mono" x="1216" y="1330" width="64" height="64"/>
+      <circle cx="1292" cy="1360" r="7" fill="#A4C9B1"/>
+      <text x="1307" y="1365" fill="#5B7063" font-size="14">#A4C9B1</text>
+      <circle cx="1292" cy="1390" r="7" fill="#214E3B"/>
+      <text x="1307" y="1395" fill="#5B7063" font-size="14">#214E3B</text>
+    </g>
+    <text x="64" y="1464" fill="#214E3B" font-size="18">Unlettered companion marks · Same selected soft-round tilt · Six matching palettes · Wordmark / main type #214E3B</text>
+    <text x="64" y="1497" fill="#5B7063" font-size="15">Original editable SVG sources · Matching price, FSNY, and plain sets · Same 3 × 2 layout · Earlier rounds preserved</text>
+  </g>
+</svg>

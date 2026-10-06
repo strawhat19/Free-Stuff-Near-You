@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 176" role="img" aria-labelledby="title desc">
+  <title id="title">Free-Stuff-Near-You — Passing It On logo</title>
+  <desc id="desc">A two-way forest-green and lime exchange loop paired with the exact Free-Stuff-Near-You name. Original, unadopted concept with editable sans-serif text and a transparent canvas.</desc>
+  <g transform="translate(20 24)">
+    <path fill="#173D2D" d="M20 60c0-23.2 18.8-42 42-42h20V7l30 24-30 24V44H62c-8.8 0-16 7.2-16 16H20Z"/>
+    <path fill="#B9D85B" transform="rotate(180 64 64)" d="M20 60c0-23.2 18.8-42 42-42h20V7l30 24-30 24V44H62c-8.8 0-16 7.2-16 16H20Z"/>
+  </g>
+  <text x="182" y="106" fill="#173D2D" font-size="50" font-weight="700" font-family="Avenir Next, Trebuchet MS, Arial, sans-serif" letter-spacing="-1.2">Free-Stuff-Near-You</text>
+</svg>

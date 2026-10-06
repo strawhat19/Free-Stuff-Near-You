@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1540" viewBox="0 0 1600 1540" role="img" aria-labelledby="title desc">
+  <title id="title">Free-Stuff-Near-You — Seamless Local Tag Refinements, v4</title>
+  <desc id="desc">Six unadopted refinements on the same three-column by two-row flat comparison layout. Every mark uses one continuous filled price-tag and lower local-point contour with broad transitions and no separate pointer. Three standard $0 options, two FSNY variants, and a plain tag retain the soft-green family. Each card includes its exact wordmark, palette, and compact monochrome design samples.</desc>
+  <defs><symbol id="sage-zero-nearby-color" viewBox="0 0 160 176"><g>
+      <path fill="#8DB99C" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="68" y="80" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g></symbol>
+<symbol id="sage-zero-nearby-mono" viewBox="0 0 160 176"><g>
+      <path fill="#214E3B" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="68" y="80" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g></symbol>
+<symbol id="mint-zero-local-color" viewBox="0 0 160 176"><g transform="rotate(-8 80 80)">
+      <path fill="#C4E3D1" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="68" y="80" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g></symbol>
+<symbol id="mint-zero-local-mono" viewBox="0 0 160 176"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="68" y="80" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g></symbol>
+<symbol id="rounded-zero-local-color" viewBox="0 0 160 176"><g>
+      <path fill="#B6D7BF" fill-rule="evenodd" d="M54 24h42c6 0 10 2 14 6l26 26c5 5 5 12 0 17l-24 24c-6 6-10 13-13 21l-9 23c-2 5-5 9-10 9s-8-4-10-9l-9-23c-4-10-8-14-18-16C23 101 12 86 12 66c0-23 19-42 42-42ZM114 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="80" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g></symbol>
+<symbol id="rounded-zero-local-mono" viewBox="0 0 160 176"><g>
+      <path fill="#214E3B" fill-rule="evenodd" d="M54 24h42c6 0 10 2 14 6l26 26c5 5 5 12 0 17l-24 24c-6 6-10 13-13 21l-9 23c-2 5-5 9-10 9s-8-4-10-9l-9-23c-4-10-8-14-18-16C23 101 12 86 12 66c0-23 19-42 42-42ZM114 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="80" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g></symbol>
+<symbol id="sage-fsny-local-color" viewBox="0 0 160 176"><g>
+      <path fill="#8DB99C" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="74" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.3">FSNY</text>
+    </g></symbol>
+<symbol id="sage-fsny-local-mono" viewBox="0 0 160 176"><g>
+      <path fill="#214E3B" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="74" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.3">FSNY</text>
+    </g></symbol>
+<symbol id="mint-fsny-local-color" viewBox="0 0 160 176"><g transform="rotate(-8 80 80)">
+      <path fill="#C4E3D1" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="74" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.3">FSNY</text>
+    </g></symbol>
+<symbol id="mint-fsny-local-mono" viewBox="0 0 160 176"><g transform="rotate(-8 80 80)">
+      <path fill="#214E3B" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="74" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.3">FSNY</text>
+    </g></symbol>
+<symbol id="minimal-local-tag-color" viewBox="0 0 160 176"><g>
+      <path fill="#ADD0B7" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol>
+<symbol id="minimal-local-tag-mono" viewBox="0 0 160 176"><g>
+      <path fill="#214E3B" fill-rule="evenodd" d="M36 20h58c6 0 10 2 14 6l28 28c6 6 6 14 0 20l-26 26c-6 6-9 12-12 19l-9 22c-2 5-5 9-9 9s-7-4-9-9l-9-22c-4-10-7-15-18-15h-8c-7 0-12-5-12-12V32c0-7 5-12 12-12ZM111 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      
+    </g></symbol></defs>
+  <rect width="1600" height="1540" fill="#F1F5EF"/>
+  <g font-family="Avenir Next, Trebuchet MS, Arial, sans-serif">
+    <text x="64" y="86" fill="#214E3B" font-size="52" font-weight="700" letter-spacing="-1.4">Free-Stuff-Near-You</text>
+    <text x="64" y="127" fill="#5B7063" font-size="21">Logo concepts · v4 · One seamless tag. A local point.</text>
+    <text x="1536" y="86" fill="#5B7063" font-size="15" text-anchor="end" letter-spacing="2">ORIGINAL / UNADOPTED</text>
+    <g>
+      <rect x="64" y="176" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="96" y="212" fill="#5B7063" font-size="13" letter-spacing="0.8">01 / SAGE FLOW / STANDARD $0</text>
+      <text x="96" y="252" fill="#214E3B" font-size="26" font-weight="700">Sage $0 Nearby</text>
+      <use href="#sage-zero-nearby-color" x="208" y="284" width="184" height="202.4"/>
+      <text x="300" y="544" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="96" y="594" fill="#5B7063" font-size="16">One flowing contour. A familiar $0.</text>
+      <text x="96" y="621" fill="#5B7063" font-size="16">Broad shoulders soften the local point.</text>
+      <path d="M96 660H504" stroke="#D6E3D9"/>
+      <text x="96" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="284" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">UNIFIED BODY / TYPE</text>
+      <use href="#sage-zero-nearby-mono" x="104" y="728" width="32" height="35.2"/>
+      <use href="#sage-zero-nearby-mono" x="160" y="712" width="48" height="52.8"/>
+      <use href="#sage-zero-nearby-mono" x="216" y="696" width="64" height="70.4"/>
+      <circle cx="292" cy="726" r="7" fill="#8DB99C"/>
+      <text x="307" y="731" fill="#5B7063" font-size="14">#8DB99C</text>
+      <circle cx="292" cy="756" r="7" fill="#214E3B"/>
+      <text x="307" y="761" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="564" y="176" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="596" y="212" fill="#5B7063" font-size="13" letter-spacing="0.8">02 / MINT FLOW / STANDARD $0</text>
+      <text x="596" y="252" fill="#214E3B" font-size="26" font-weight="700">Mint Tilt $0</text>
+      <use href="#mint-zero-local-color" x="708" y="284" width="184" height="202.4"/>
+      <text x="800" y="544" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="596" y="594" fill="#5B7063" font-size="16">The whole form shares the gentle tilt.</text>
+      <text x="596" y="621" fill="#5B7063" font-size="16">A single mint tag becomes a local pin.</text>
+      <path d="M596 660H1004" stroke="#D6E3D9"/>
+      <text x="596" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="784" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">UNIFIED BODY / TYPE</text>
+      <use href="#mint-zero-local-mono" x="604" y="728" width="32" height="35.2"/>
+      <use href="#mint-zero-local-mono" x="660" y="712" width="48" height="52.8"/>
+      <use href="#mint-zero-local-mono" x="716" y="696" width="64" height="70.4"/>
+      <circle cx="792" cy="726" r="7" fill="#C4E3D1"/>
+      <text x="807" y="731" fill="#5B7063" font-size="14">#C4E3D1</text>
+      <circle cx="792" cy="756" r="7" fill="#214E3B"/>
+      <text x="807" y="761" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="1064" y="176" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="1096" y="212" fill="#5B7063" font-size="13" letter-spacing="0.8">03 / ROUND FLOW / STANDARD $0</text>
+      <text x="1096" y="252" fill="#214E3B" font-size="26" font-weight="700">Rounded $0 Local</text>
+      <use href="#rounded-zero-local-color" x="1208" y="284" width="184" height="202.4"/>
+      <text x="1300" y="544" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="1096" y="594" fill="#5B7063" font-size="16">A rounder ticket, smoothly grounded.</text>
+      <text x="1096" y="621" fill="#5B7063" font-size="16">The lower point grows from the edge.</text>
+      <path d="M1096 660H1504" stroke="#D6E3D9"/>
+      <text x="1096" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="1284" y="696" fill="#5B7063" font-size="11" letter-spacing="0.8">UNIFIED BODY / TYPE</text>
+      <use href="#rounded-zero-local-mono" x="1104" y="728" width="32" height="35.2"/>
+      <use href="#rounded-zero-local-mono" x="1160" y="712" width="48" height="52.8"/>
+      <use href="#rounded-zero-local-mono" x="1216" y="696" width="64" height="70.4"/>
+      <circle cx="1292" cy="726" r="7" fill="#B6D7BF"/>
+      <text x="1307" y="731" fill="#5B7063" font-size="14">#B6D7BF</text>
+      <circle cx="1292" cy="756" r="7" fill="#214E3B"/>
+      <text x="1307" y="761" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="64" y="810" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="96" y="846" fill="#5B7063" font-size="13" letter-spacing="0.8">04 / SAGE FLOW / LETTERMARK</text>
+      <text x="96" y="886" fill="#214E3B" font-size="26" font-weight="700">Sage FSNY</text>
+      <use href="#sage-fsny-local-color" x="208" y="918" width="184" height="202.4"/>
+      <text x="300" y="1178" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="96" y="1228" fill="#5B7063" font-size="16">FSNY inside a seamless local tag.</text>
+      <text x="96" y="1255" fill="#5B7063" font-size="16">No seam, separate base, or narrow neck.</text>
+      <path d="M96 1294H504" stroke="#D6E3D9"/>
+      <text x="96" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="284" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">UNIFIED BODY / TYPE</text>
+      <use href="#sage-fsny-local-mono" x="104" y="1362" width="32" height="35.2"/>
+      <use href="#sage-fsny-local-mono" x="160" y="1346" width="48" height="52.8"/>
+      <use href="#sage-fsny-local-mono" x="216" y="1330" width="64" height="70.4"/>
+      <circle cx="292" cy="1360" r="7" fill="#8DB99C"/>
+      <text x="307" y="1365" fill="#5B7063" font-size="14">#8DB99C</text>
+      <circle cx="292" cy="1390" r="7" fill="#214E3B"/>
+      <text x="307" y="1395" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="564" y="810" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="596" y="846" fill="#5B7063" font-size="13" letter-spacing="0.8">05 / MINT FLOW / LETTERMARK</text>
+      <text x="596" y="886" fill="#214E3B" font-size="26" font-weight="700">Mint Tilt FSNY</text>
+      <use href="#mint-fsny-local-color" x="708" y="918" width="184" height="202.4"/>
+      <text x="800" y="1178" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="596" y="1228" fill="#5B7063" font-size="16">A mint lettermark, all in one form.</text>
+      <text x="596" y="1255" fill="#5B7063" font-size="16">Tag and local point move together.</text>
+      <path d="M596 1294H1004" stroke="#D6E3D9"/>
+      <text x="596" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="784" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">UNIFIED BODY / TYPE</text>
+      <use href="#mint-fsny-local-mono" x="604" y="1362" width="32" height="35.2"/>
+      <use href="#mint-fsny-local-mono" x="660" y="1346" width="48" height="52.8"/>
+      <use href="#mint-fsny-local-mono" x="716" y="1330" width="64" height="70.4"/>
+      <circle cx="792" cy="1360" r="7" fill="#C4E3D1"/>
+      <text x="807" y="1365" fill="#5B7063" font-size="14">#C4E3D1</text>
+      <circle cx="792" cy="1390" r="7" fill="#214E3B"/>
+      <text x="807" y="1395" fill="#5B7063" font-size="14">#214E3B</text>
+    </g><g>
+      <rect x="1064" y="810" width="472" height="610" rx="24" fill="#FFFFFF" stroke="#D6E3D9"/>
+      <text x="1096" y="846" fill="#5B7063" font-size="13" letter-spacing="0.8">06 / PLAIN FLOW / TAG ONLY</text>
+      <text x="1096" y="886" fill="#214E3B" font-size="26" font-weight="700">Minimal Local Tag</text>
+      <use href="#minimal-local-tag-color" x="1208" y="918" width="184" height="202.4"/>
+      <text x="1300" y="1178" fill="#214E3B" font-size="29" font-weight="700" text-anchor="middle" letter-spacing="-0.7">Free-Stuff-Near-You</text>
+      <text x="1096" y="1228" fill="#5B7063" font-size="16">One soft-green shape. One quiet hole.</text>
+      <text x="1096" y="1255" fill="#5B7063" font-size="16">A clean tag with a local ending.</text>
+      <path d="M1096 1294H1504" stroke="#D6E3D9"/>
+      <text x="1096" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">MONO / 32, 48, 64 PX</text>
+      <text x="1284" y="1330" fill="#5B7063" font-size="11" letter-spacing="0.8">UNIFIED BODY / TYPE</text>
+      <use href="#minimal-local-tag-mono" x="1104" y="1362" width="32" height="35.2"/>
+      <use href="#minimal-local-tag-mono" x="1160" y="1346" width="48" height="52.8"/>
+      <use href="#minimal-local-tag-mono" x="1216" y="1330" width="64" height="70.4"/>
+      <circle cx="1292" cy="1360" r="7" fill="#ADD0B7"/>
+      <text x="1307" y="1365" fill="#5B7063" font-size="14">#ADD0B7</text>
+      <circle cx="1292" cy="1390" r="7" fill="#214E3B"/>
+      <text x="1307" y="1395" fill="#5B7063" font-size="14">#214E3B</text>
+    </g>
+    <text x="64" y="1464" fill="#214E3B" font-size="18">A single continuous silhouette · Soft greens throughout · Clean editable Arial Bold $0 and FSNY</text>
+    <text x="64" y="1497" fill="#5B7063" font-size="15">Original SVG sources · Same 3 × 2 comparison layout · Earlier rounds preserved · Flat concept sheet · No identity adopted</text>
+  </g>
+</svg>

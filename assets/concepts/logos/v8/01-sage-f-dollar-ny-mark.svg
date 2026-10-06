@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Free-Stuff-Near-You — Sage F$NY mark, v8</title>
+  <desc id="desc">A soft-rounded sage local tag containing the literal F$NY initials, with the S replaced by a dollar sign. A small zero is placed inside the main tag body centered above the F$NY initials. Shape and internal type share a minus-eight-degree angle. Right and bottom point-and-hole motifs remain exact reflected twins. Original, unadopted vector concept with transparent surroundings and editable text.</desc>
+  <g transform="rotate(-8 80 80)">
+      <path fill="#8DB99C" fill-rule="evenodd" d="M50 20H88Q96 20 101 25L135 59Q140 64 135 69L105 99Q102 102 99 105L69 135Q64 140 59 135L25 101Q20 96 20 88V50Q20 20 50 20ZM112 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12ZM64 106a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="63" y="74" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.3"><tspan fill="#214E3B">F</tspan><tspan fill="#3E664F">$</tspan><tspan fill="#214E3B">NY</tspan></text>
+      <text x="63" y="48" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle">0</text>
+    </g>
+</svg>

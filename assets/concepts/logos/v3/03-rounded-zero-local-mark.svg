@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 176" role="img" aria-labelledby="title desc">
+  <title id="title">Free-Stuff-Near-You — Rounded $0 Local mark, v3</title>
+  <desc id="desc">The Gentle Ticket variant from v2 continues with a proper Arial Bold $0. The capsule end, right-facing tag point, and attached local pin-base preserve its softer character. The lower pointer is aligned and attached, with a circular opening to signal local discovery. Original, unadopted logo concept; lettering is editable.</desc>
+  <path fill="#729F83" fill-rule="evenodd" d="M62 99H98v14c0 15-12 31-18 37-6-6-18-22-18-37v-14ZM80 115a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+    <g>
+      <g transform="translate(16 0)"><path fill="#B6D7BF" fill-rule="evenodd" d="M47 23h36c4 0 7 2 10 5l27 27c5 5 5 13 0 18l-27 27c-3 3-6 5-10 5H47C24.4 105 6 86.6 6 64s18.4-41 41-41ZM104 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/></g>
+      <text x="72" y="79" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g>
+</svg>

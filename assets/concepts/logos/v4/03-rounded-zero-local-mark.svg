@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 176" role="img" aria-labelledby="title desc">
+  <title id="title">Free-Stuff-Near-You — Rounded $0 Local mark, v4</title>
+  <desc id="desc">The rounded ticket family has a broad capsule-like left end that curves naturally into the same local endpoint. The outer silhouette is a single contour and a single green fill. The price tag and local point form one continuous outer path, with no separate pointer or visible seam. Original, unadopted concept; any lettering is editable.</desc>
+  <g>
+      <path fill="#B6D7BF" fill-rule="evenodd" d="M54 24h42c6 0 10 2 14 6l26 26c5 5 5 12 0 17l-24 24c-6 6-10 13-13 21l-9 23c-2 5-5 9-10 9s-8-4-10-9l-9-23c-4-10-8-14-18-16C23 101 12 86 12 66c0-23 19-42 42-42ZM114 58a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z"/>
+      <text x="66" y="80" fill="#214E3B" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" text-anchor="middle">$0</text>
+    </g>
+</svg>
